@@ -6,7 +6,7 @@ mysqldump -u username -p nama_database > lokasi_penyimpanan\nama_file.sql<br>
 <br>
 e.g.<br>
 <br>
-mysqldump - u root -p inventory > D:\Learning\SQL\Database_Inventory.sql<br>
+mysqldump -u root -p inventory > D:\Learning\SQL\Database_Inventory.sql<br>
 
 ## Import Database
 <br>
